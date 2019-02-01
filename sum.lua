@@ -1,0 +1,6 @@
+print("Введите первое число")
+local x = io.read()
+print("Введите второе число")
+local y = io.read()
+print("Результат")
+print(x + y)
